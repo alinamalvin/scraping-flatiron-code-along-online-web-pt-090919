@@ -32,5 +32,5 @@ class Scraper
   end
 end
   Scraper.new.get_page
-
+doc.css(".post")
 
